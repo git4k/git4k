@@ -6,7 +6,7 @@
 -  Exploring **AWS, Snowflake, and Data Pipelines** for scalable solutions.  
 -  Passionate about **AI, Machine Learning, and Data-Driven Innovation**.  
 -  Always optimizing **Big Data workflows & cloud architectures**.  
--  Let's connect: [LinkedIn](your-linkedin-url) | [Portfolio](your-website-url)  
+-  Let's connect: [LinkedIn](your-linkedin-url)  
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
