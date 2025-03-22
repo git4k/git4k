@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Kishore Kumar B!  
-🚀 **Big Data Engineer | Cloud Enthusiast | Machine Learning Practitioner**  
+# Hi, I'm Kishore Kumar B!  
+**Big Data Engineer | Cloud Enthusiast | Machine Learning Practitioner**  
 
 ## 📌 About Me  
-- 🔭 Currently working on **real-time Big Data processing with Spark & Kafka**.  
-- 🌱 Exploring **AWS, Snowflake, and Data Pipelines** for scalable solutions.  
-- 🧠 Passionate about **AI, Machine Learning, and Data-Driven Innovation**.  
-- 📈 Always optimizing **Big Data workflows & cloud architectures**.  
-- 📫 Let's connect: [LinkedIn](your-linkedin-url) | [Portfolio](your-website-url)  
+-  Currently working on **real-time Big Data processing with Spark & Kafka**.  
+-  Exploring **AWS, Snowflake, and Data Pipelines** for scalable solutions.  
+-  Passionate about **AI, Machine Learning, and Data-Driven Innovation**.  
+-  Always optimizing **Big Data workflows & cloud architectures**.  
+-  Let's connect: [LinkedIn](your-linkedin-url) | [Portfolio](your-website-url)  
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -18,6 +18,6 @@
 🔹 **[Real-Time Fraud Detection](https://github.com/Kishore-Kumar-B/fraud-detection)** – Streaming ML for anomaly detection in financial transactions.  
 
 
-## 🚀 Let's Collaborate!  
+##  Let's Collaborate!  
 💡 If you're working on **Big Data, AI, or Cloud projects**, let's connect and build something awesome together!  
 
