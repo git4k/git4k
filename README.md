@@ -1,4 +1,4 @@
-# Hi, I'm Kishore Kumar B!  
+# Hi, I'm Kishore !  
 **Big Data Engineer | Cloud Enthusiast | Machine Learning Practitioner**  
 
 ## 📌 About Me  
