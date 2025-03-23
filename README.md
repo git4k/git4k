@@ -14,8 +14,6 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
 
-## 📂 Featured Projects  
-🔹 **[Real-Time Fraud Detection](https://github.com/Kishore-Kumar-B/fraud-detection)** – Streaming ML for anomaly detection in financial transactions.  
 
 
 ##  Let's Collaborate!  
