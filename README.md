@@ -2,7 +2,7 @@
 
 **GenAI Engineer** — RAG pipelines · Multi-agent systems · Python · FastAPI · AWS
 
-M.Sc. Applied Statistics & Data Analytics at Amrita Vishwa Vidyapeetham. I build scalable backend
+I build scalable backend
 applications and LLM-powered systems — retrieval pipelines, agentic architectures, and the APIs that
 carry them into production. Based in Coimbatore, India.
 
