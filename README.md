@@ -1,6 +1,6 @@
 # Kishore Kumar B
 
-**GenAI Engineer** — RAG pipelines · Multi-agent systems · Python · FastAPI · AWS
+**GenAI Python Engineer** — RAG pipelines · Multi-agent systems · Python · FastAPI · AWS
 
 I build scalable backend
 applications and LLM-powered systems — retrieval pipelines, agentic architectures, and the APIs that
