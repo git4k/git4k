@@ -74,20 +74,6 @@ Bedrock (Claude 3.5 Sonnet).
 
 ---
 
-## 📈 GitHub
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=git4k&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&hide=issues" />
-    <img height="150" alt="Kishore's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=git4k&show_icons=true&include_all_commits=true&hide_border=true&theme=graywhite&hide=issues" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=git4k&layout=compact&include_all_commits=true&hide_border=true&langs_count=8&theme=github_dark&title_color=58a6ff" />
-    <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git4k&layout=compact&include_all_commits=true&hide_border=true&langs_count=8&theme=graywhite" />
-  </picture>
-</p>
-
----
 
 ## 📫 Contact
 
