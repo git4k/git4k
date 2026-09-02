@@ -10,25 +10,6 @@ carry them into production. Based in Coimbatore, India.
 
 ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 🧠 Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[LangGraph E-Commerce Support Chatbot](https://github.com/git4k/E-Commerce-Support-Chatbot)** | Multi-agent support chatbot with intent-based routing — order tracking, refunds, RAG-backed policy Q&A and automated ticket creation, at sub-second response times. FAISS + Hugging Face embeddings over policy docs; specialised database agents across **500K+** customer records. | LangGraph · FAISS · Groq · PostgreSQL · Streamlit |
-| **[Google ADK Finance Assistant](https://github.com/git4k/googleaiagent)** | Multi-agent financial assistant — separate finance and investment-planning agents with modular task delegation, grounded on live Google Search for real-time analysis. | Google ADK · Gemini 2.5 Flash · Python 3.11 · uv |
-| **[AI Customer Segmentation Dashboard](https://github.com/git4k/AI-Customer-Segmentation-Dashboard)** | RFM + K-Means segmentation over **397K+** retail transactions — cleaning, feature engineering, normalisation and clustering into distinct customer groups, surfaced as cluster-level marketing insight. | scikit-learn · pandas · RFM analysis |
-| **[RAG Pipeline + Multi-LLM Benchmark](https://github.com/git4k/End-to-End-RAG-Pipeline-with-Multi-LLM-Benchmarking)** | 50 documents → 449 chunks → FAISS index, then LLaMA-3 8B / Qwen2.5 7B / Mistral 7B measured against a No-RAG baseline over 500 queries. Qwen2.5 + RAG lands **0.61 exact match vs 0.21 without**. | FAISS · Ollama · MiniLM · scikit-learn |
-
-## 🏆 Hackathon
-
-**AI for Bharat — Shortlisted Finalist** · [CodeWise](https://github.com/git4k/codewise), an AI fault-localisation
-system for enterprise codebases. Provisioned the cloud infrastructure with AWS CDK — S3 data loaders and
-environment setup — and configured deployment pipelines to integrate OpenSearch hybrid retrieval with
-Bedrock (Claude 3.5 Sonnet).
-
 ---
 
 ## 🛠 Tech stack
@@ -63,6 +44,25 @@ Bedrock (Claude 3.5 Sonnet).
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS%20%2F%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+
+---
+
+## 🧠 Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[LangGraph E-Commerce Support Chatbot](https://github.com/git4k/E-Commerce-Support-Chatbot)** | Multi-agent support chatbot with intent-based routing — order tracking, refunds, RAG-backed policy Q&A and automated ticket creation, at sub-second response times. FAISS + Hugging Face embeddings over policy docs; specialised database agents across **500K+** customer records. | LangGraph · FAISS · Groq · PostgreSQL · Streamlit |
+| **[Google ADK Finance Assistant](https://github.com/git4k/googleaiagent)** | Multi-agent financial assistant — separate finance and investment-planning agents with modular task delegation, grounded on live Google Search for real-time analysis. | Google ADK · Gemini 2.5 Flash · Python 3.11 · uv |
+| **[AI Customer Segmentation Dashboard](https://github.com/git4k/AI-Customer-Segmentation-Dashboard)** | RFM + K-Means segmentation over **397K+** retail transactions — cleaning, feature engineering, normalisation and clustering into distinct customer groups, surfaced as cluster-level marketing insight. | scikit-learn · pandas · RFM analysis |
+| **[RAG Pipeline + Multi-LLM Benchmark](https://github.com/git4k/End-to-End-RAG-Pipeline-with-Multi-LLM-Benchmarking)** | 50 documents → 449 chunks → FAISS index, then LLaMA-3 8B / Qwen2.5 7B / Mistral 7B measured against a No-RAG baseline over 500 queries. Qwen2.5 + RAG lands **0.61 exact match vs 0.21 without**. | FAISS · Ollama · MiniLM · scikit-learn |
+
+## 🏆 Hackathon
+
+**AI for Bharat — Shortlisted Finalist** · [CodeWise](https://github.com/git4k/codewise), an AI fault-localisation
+system for enterprise codebases. Provisioned the cloud infrastructure with AWS CDK — S3 data loaders and
+environment setup — and configured deployment pipelines to integrate OpenSearch hybrid retrieval with
+Bedrock (Claude 3.5 Sonnet).
+
 
 ---
 
