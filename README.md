@@ -68,8 +68,8 @@ Bedrock (Claude 3.5 Sonnet).
 
 ## 🎓 Education & certifications
 
-- **M.Sc. Applied Statistics & Data Analytics** — Amrita Vishwa Vidyapeetham, Coimbatore · 2024–2026
-- **B.E. Aeronautical Engineering** — Kumaraguru College of Technology, Coimbatore · 2016–2020 · *Achiever's Award, Batch 2016–2020*
+- **M.Sc. Applied Statistics & Data Analytics** — Amrita Vishwa Vidyapeetham, Coimbatore ·
+- **B.E. Aeronautical Engineering** — Kumaraguru College of Technology, Coimbatore  · *Achiever's Award, Batch 2016–2020*
 - **AWS Certified AI Practitioner** · **AWS Certified Cloud Practitioner** — Amazon Web Services
 
 ---
